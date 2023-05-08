@@ -1,0 +1,1 @@
+# Actividad-6.1-Regresi-n-Lineal-Simple-
